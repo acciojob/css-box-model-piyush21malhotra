@@ -1,9 +1,17 @@
 /* Your CSS Code here. */
-.para {
+.box {
 	background-color: lightblue;
 	border: 15px solid blue;
 	margin: 20px;
 	width: 300px;
 	padding: 50px;
+}
+
+.para {
+/* 	background-color: lightblue;
+	border: 15px solid blue;
+	margin: 20px;
+	width: 300px;
+	padding: 50px; */
 }
 
