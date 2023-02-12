@@ -1,11 +1,8 @@
 /* Your CSS Code here. */
-.box {
+.para {
 	background-color: lightblue;
 	border: 15px solid blue;
 	margin: 20px;
-}
-
-.para {
 	width: 300px;
 	padding: 50px;
 }
