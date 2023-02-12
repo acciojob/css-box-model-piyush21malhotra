@@ -3,10 +3,11 @@
 	background-color: lightblue;
 	border: 15px solid blue;
 	margin: 20px;
+	width: 300px;
+	padding: 50px;
 }
 
-.box2 {
-	padding: 50px;
-	width: 300px;
-}
+/* .para {
+	border: 2px dotted black;
+} */
 
